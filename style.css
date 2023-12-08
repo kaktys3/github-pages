@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+.text1 {
+    font-family: 'Hedvig Letters Serif';
+    font-weight: 900;
+}
+
+.text2 {
+    font-family: 'Hedvig Letters Serif';
+    white-space: pre-wrap;
+}
